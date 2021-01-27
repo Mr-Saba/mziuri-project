@@ -1,0 +1,8 @@
+.UsersList {
+    width: 25%;
+    border: 1px solid grey;
+}
+.UsersList h3 {
+    text-align: center; 
+    color: purple
+}

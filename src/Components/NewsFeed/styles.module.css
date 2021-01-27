@@ -1,0 +1,8 @@
+.NewsFeed {
+    width: 75%;
+    border: 1px solid grey;
+}
+.NewsFeed h3 {
+    text-align: center;
+    color: purple
+}

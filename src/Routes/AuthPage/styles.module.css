@@ -1,0 +1,16 @@
+.AuthPage {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.AuthPage  form {
+    background-color: rgba(231, 172, 240, 0.452);
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
